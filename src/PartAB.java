@@ -1,4 +1,4 @@
-public class Main {
+public class PartAB {
     public static void main(String[] args) {
 //  Counts from 0-30 by 1
 //        for (int cnt = 0; cnt <= 30; cnt++) {
